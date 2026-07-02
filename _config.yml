@@ -1,0 +1,5 @@
+title: sisidra
+description: personal blog
+url: https://sisidra.github.io
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
