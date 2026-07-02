@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "T-Strings in Python 3.14: Building a Safer SQL Utility for DuckDB"
+title: "T-Strings in Py3.14: Building SQL Utility for DuckDB"
 date: 2026-07-02
 ---
 
