@@ -187,3 +187,7 @@ I'm using this in production with Dagster pipelines and have been loving this fo
 
 * [resources/tquery.py](https://github.com/sisidra/sisidra.github.io/blob/main/resources/tquery.py)
 * [resources/bins.py](https://github.com/sisidra/sisidra.github.io/blob/main/resources/bins.py)
+
+## Known limitations
+
+* Collections are registered but not unregistered. As execution is delayed, there is no convenient way I can come up with to cleanup no longer used collections. Not an issue for me at this time as my use cases are small short lived data ETL pipelines.
