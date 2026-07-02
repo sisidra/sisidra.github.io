@@ -1,9 +1,9 @@
 ---
 layout: default
-title: sisidra
+title: Mārtiņš Kalvāns 
 ---
 
-# sisidra
+# Mārtiņš Kalvāns
 
 <ul class="post-list">
   {% for post in site.posts %}
