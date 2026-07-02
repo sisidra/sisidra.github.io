@@ -3,7 +3,7 @@ layout: default
 title: Mārtiņš Kalvāns 
 ---
 
-# Mārtiņš Kalvāns
+# Pieraksti
 
 <ul class="post-list">
   {% for post in site.posts %}
